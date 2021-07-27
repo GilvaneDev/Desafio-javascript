@@ -97,7 +97,7 @@ if/else + operators
 
 2º Seu chefe possui um coração bom e decidiu dar aumento no salário de todos os funcionário. Ele pediu para você adicionar R$200,00 aos funcionários que possuem mais de 18 anos e R$500,00 para que tem mais de 45 anos. Adicione esse valor no salários dos dois funcionários a baixo usando a estrutura fornecida.*/
 
-let funcionario1 = {
+/*let funcionario1 = {
     nome: "Maria Silva",
     idade: 54,
     salario: 1700.50
@@ -107,5 +107,5 @@ let funcionario2 = {
     nome: "Roberto Carlos",
     idade: 23,
     salario: 1400.70
-}
+}*/
 
